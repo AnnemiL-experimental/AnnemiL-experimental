@@ -66,7 +66,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 ```
 PEDOT:PSS flexible electrodes  ·  PDMS casting  ·  tissue-mimicking phantoms
 TiO₂ nanoparticle dispersion   ·  Kapton–FEP molds  ·  non-photolithographic patterning
-BET surface analysis  ·  TGA  ·  pyrolysis
+BET surface analysis  ·  TGA   ·  pyrolysis
 ```
 
 <br/>
@@ -86,11 +86,11 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 ## Languages · 语言
 
 ```
-[普通话 / 古汉语 / 文言文]  ─  母语  ·  native
-[English]                  ─  流利  ·  fluent
-[Deutsch]                  ─  学习中  ·  intermediate
+[普通话 / 古汉语 / 文言文]    ─  母语  ·  native
+[English]                   ─  流利  ·  fluent
+[Deutsch]                 ─  学习中  ·  intermediate
 [日本語]                   ─  学习中  ·  intermediate
-[Español]                  ─  准备开始  ·  incoming
+[Español]                ─  准备开始  ·  incoming
 ```
 
 <br/>
