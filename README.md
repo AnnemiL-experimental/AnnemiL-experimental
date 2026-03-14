@@ -6,7 +6,7 @@
 
 <br/>
 
-# AnnemiL &ensp;·&ensp; 安妮
+# AnnemiL &ensp;·&ensp; 李长歌
 
 <sub>Biomedical Engineer · Aspiring Neural Interface Researcher · Reader of Myths & Margins</sub>
 
