@@ -28,7 +28,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 
 ```
 [Psychiatric BCI]              ─  Closed-loop interfaces for psychiatric neuromodulation
-[Brain Organoid Electrophys.]  ─  Electrophysiology in 3D neural tissue models
+[Brain Organoid Electrophys]   ─  Electrophysiology in 3D neural tissue models
 [Affective Neuroscience]       ─  Amygdala · stress-axis · neuroendocrine systems
 [Biosignal Hardware]           ─  Analog front-end design · embedded acquisition systems
 [Biophotonics]                 ─  Tissue-mimicking phantoms · optical sensing pipelines
