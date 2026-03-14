@@ -1,12 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,19,20,21&height=180&section=header&text=Siyi%20Li%20%C2%B7%20%E5%AE%89%E5%A6%AE&fontColor=88ccbb&fontSize=36&fontAlignY=38&desc=Biomedical%20Engineer%20%C2%B7%20Neural%20Interfaces%20%C2%B7%20Affective%20Neuroscience&descAlignY=58&descSize=13&descFontColor=557766&animation=fadeIn)
+
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=660&height=45&lines=B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Affective+Neuroscience;Xi'an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=558877&center=true&vCenter=true&width=660&height=45&lines=B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Affective+Neuroscience;Xi'an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
 
 <br/>
 
-# Siyi (Annemi) Li &ensp;·&ensp; 李长歌
+# Siyi Li &ensp;·&ensp; 安妮
 
 <sub>Biomedical Engineer · Bioelectronics · Affective Neuroscience · Reader of Myths & Margins</sub>
 
@@ -28,7 +30,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 
 ```
 [Psychiatric BCI]              ─  Closed-loop interfaces for psychiatric neuromodulation
-[Brain Organoid Electrophys]   ─  Electrophysiology in 3D neural tissue models
+[Brain Organoid Electrophys.]  ─  Electrophysiology in 3D neural tissue models
 [Affective Neuroscience]       ─  Amygdala · stress-axis · neuroendocrine systems
 [Biosignal Hardware]           ─  Analog front-end design · embedded acquisition systems
 [Biophotonics]                 ─  Tissue-mimicking phantoms · optical sensing pipelines
@@ -66,7 +68,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 ```
 PEDOT:PSS flexible electrodes  ·  PDMS casting  ·  tissue-mimicking phantoms
 TiO₂ nanoparticle dispersion   ·  Kapton–FEP molds  ·  non-photolithographic patterning
-BET surface analysis  ·  TGA   ·  pyrolysis
+BET surface analysis  ·  TGA  ·  pyrolysis
 ```
 
 <br/>
@@ -86,11 +88,11 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 ## Languages · 语言
 
 ```
-[普通话 / 古汉语 / 文言文]    ─  母语  ·  native
-[English]                   ─  流利  ·  fluent
-[Deutsch]                   ─  学习中  ·  intermediate
-[日本語]                     ─  学习中  ·  intermediate
-[Español]                   ─  准备开始  ·  incoming
+[普通话 / 古汉语 / 文言文]  ─  母语  ·  native
+[English]                  ─  流利  ·  fluent
+[Deutsch]                  ─  学习中  ·  intermediate
+[日本語]                   ─  学习中  ·  intermediate
+[Español]                  ─  准备开始  ·  incoming
 ```
 
 <br/>
@@ -125,7 +127,9 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 <sub>
 &emsp;「 理解大脑，连接可能性。 」<br/>
 <br/>
-<i>Understanding the brain — and everything else that refuses to stay in one category.</i>
+<i>Ripple is a transient hippocampal oscillation.</i>
 </sub>
 <br/><br/>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,19,20,21&height=120&section=footer)
