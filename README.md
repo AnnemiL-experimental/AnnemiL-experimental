@@ -6,7 +6,7 @@
 
 <br/>
 
-# Siyi Li &ensp;·&ensp; 安妮
+# Siyi (Annemi) Li &ensp;·&ensp; 李长歌
 
 <sub>Biomedical Engineer · Bioelectronics · Affective Neuroscience · Reader of Myths & Margins</sub>
 
