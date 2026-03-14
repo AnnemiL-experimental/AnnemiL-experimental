@@ -88,9 +88,9 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 ```
 [普通话 / 古汉语 / 文言文]    ─  母语  ·  native
 [English]                   ─  流利  ·  fluent
-[Deutsch]                 ─  学习中  ·  intermediate
-[日本語]                   ─  学习中  ·  intermediate
-[Español]                ─  准备开始  ·  incoming
+[Deutsch]                   ─  学习中  ·  intermediate
+[日本語]                     ─  学习中  ·  intermediate
+[Español]                   ─  准备开始  ·  incoming
 ```
 
 <br/>
