@@ -1,18 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Annemi%20Li%20%C2%B7%20%E6%9D%8E%E9%95%BF%E6%AD%8C&fontColor=99aabb&fontSize=34&fontAlignY=38&desc=Biomedical%20Engineer%20%C2%B7%20Neural%20Interfaces%20%C2%B7%20Affective%20Neuroscience&descAlignY=58&descSize=13&descFontColor=556677&animation=fadeIn)
-
 <div align="center">
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=778899&center=true&vCenter=true&width=660&height=45&lines=B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Affective+Neuroscience;Xi'an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
-
-<br/>
+<br/><br/>
 
 # Annemi Li &ensp;·&ensp; 李长歌
 
-<sub>Biomedical Engineer · Bioelectronics · Affective Neuroscience · Reader of Myths & Margins</sub>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=3500&pause=1200&color=778899&center=true&vCenter=true&width=660&height=35&lines=Biomedical+Engineer+%C2%B7+Neural+Interfaces+%C2%B7+Affective+Neuroscience;B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Biophotonics;Xi%27an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
 
 <br/>
+
+<sub>Reader of Myths & Margins</sub>
+
+<br/><br/>
 
 </div>
 
@@ -135,4 +135,3 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 <br/><br/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
