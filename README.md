@@ -10,7 +10,7 @@
 
 <br/>
 
-<sub>Reader of Myths & Margins</sub>
+<sub>Ripple is a transient hippocampal oscillation.</sub>
 
 <br/><br/>
 
@@ -68,7 +68,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 ```
 PEDOT:PSS flexible electrodes  ·  PDMS casting  ·  tissue-mimicking phantoms
 TiO₂ nanoparticle dispersion   ·  Kapton–FEP molds  ·  non-photolithographic patterning
-BET surface analysis  ·  TGA  ·  pyrolysis
+BET surface analysis  ·  TGA   ·  pyrolysis
 ```
 
 <br/>
@@ -77,7 +77,7 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 
 ```
 [Uniaxial-Characterization-...]  ─  Hyperelastic (Ogden) modeling of soft elastomers
-[my-philosophy]                  ─  Notes on thinking, belief, and what it means to be
+[my-philosophy]                  ─  Essays on system dynamics, mind, and what resists explanation
 [jiuzhou]                        ─  九州志  ─  world-building archive
 [slavic-mythology]               ─  斯拉夫神话资料集  ─  Slavic mythology archive
 [humanities-ebooks]              ─  sociology · aesthetics · psychology · humanities
@@ -105,20 +105,9 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 →  Glucose biosensor: ESP32 colorimetric analog front-end (senior capstone)
 →  Preparing graduate applications — neural engineering / psychiatric BCI
 →  Making jewelry — brass & silver, botanical and anatomical motifs
-→  Listening: Pink Floyd  ·  草东没有派对  ·  落日飞车  ·  Placebo  ·  陈粒
+→  Listening: Pink Floyd  ·  草东没有派对  ·  Coldplay  ·  Placebo  ·  陈粒
 ```
 
-<br/>
-
-## GitHub Stats · 统计
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnemiL-experimental&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=666666&icon_color=999999&text_color=666666&bg_color=00000000)
-
-</div>
-
-<br/>
 
 ---
 
@@ -130,8 +119,5 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 &emsp;永不回避命运对灵魂的逼视<br/>
 &emsp;如果有一天我先你而逝<br/>
 <br/>
-<i>Ripple is a transient hippocampal oscillation.</i>
-</sub>
-<br/><br/>
 </div>
 
