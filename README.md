@@ -30,7 +30,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 
 ```
 [Psychiatric BCI]              ─  Closed-loop interfaces for psychiatric neuromodulation
-[Brain Organoid Electrophys.]  ─  Electrophysiology in 3D neural tissue models
+[Brain Organoid Electrophys]   ─  Electrophysiology in 3D neural tissue models
 [Affective Neuroscience]       ─  Amygdala · stress-axis · neuroendocrine systems
 [Biosignal Hardware]           ─  Analog front-end design · embedded acquisition systems
 [Biophotonics]                 ─  Tissue-mimicking phantoms · optical sensing pipelines
@@ -115,9 +115,9 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 <br/>
 <sub>
 愿你有苍老却无畏的样子<br/>
-&emsp;永有金子般明亮的放肆<br/>
-&emsp;永不回避命运对灵魂的逼视<br/>
-&emsp;如果有一天我先你而逝<br/>
+永有金子般明亮的放肆<br/>
+永不回避命运对灵魂的逼视<br/>
+如果有一天我先你而逝<br/>
 <br/>
 </div>
 
