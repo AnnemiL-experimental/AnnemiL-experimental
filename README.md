@@ -8,7 +8,7 @@
 
 <br/>
 
-# Siyi Li &ensp;·&ensp; 安妮
+# Annemi Li &ensp;·&ensp; 李长歌
 
 <sub>Biomedical Engineer · Bioelectronics · Affective Neuroscience · Reader of Myths & Margins</sub>
 
@@ -68,7 +68,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 ```
 PEDOT:PSS flexible electrodes  ·  PDMS casting  ·  tissue-mimicking phantoms
 TiO₂ nanoparticle dispersion   ·  Kapton–FEP molds  ·  non-photolithographic patterning
-BET surface analysis  ·  TGA  ·  pyrolysis
+BET surface analysis  ·  TGA   ·  pyrolysis
 ```
 
 <br/>
@@ -105,7 +105,7 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 →  Glucose biosensor: ESP32 colorimetric analog front-end (senior capstone)
 →  Preparing graduate applications — neural engineering / psychiatric BCI
 →  Making jewelry — brass & silver, botanical and anatomical motifs
-→  Listening: Pink Floyd  ·  草东没有派对  ·  落日飞车  ·  Placebo  ·  陈粒
+→  Listening: Pink Floyd  ·  草东没有派对  ·  Coldplay  ·  Placebo  ·  陈粒
 ```
 
 <br/>
@@ -125,7 +125,10 @@ BET surface analysis  ·  TGA  ·  pyrolysis
 <div align="center">
 <br/>
 <sub>
-&emsp;「 理解大脑，连接可能性。 」<br/>
+愿你有苍老却无畏的样子<br/>
+&emsp;永有金子般明亮的放肆<br/>
+&emsp;永不回避命运对灵魂的逼视<br/>
+&emsp;如果有一天我先你而逝<br/>
 <br/>
 <i>Ripple is a transient hippocampal oscillation.</i>
 </sub>
