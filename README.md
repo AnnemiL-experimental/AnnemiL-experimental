@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,19,20,21&height=180&section=header&text=Siyi%20Li%20%C2%B7%20%E5%AE%89%E5%A6%AE&fontColor=88ccbb&fontSize=36&fontAlignY=38&desc=Biomedical%20Engineer%20%C2%B7%20Neural%20Interfaces%20%C2%B7%20Affective%20Neuroscience&descAlignY=58&descSize=13&descFontColor=557766&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Annemi%20Li%20%C2%B7%20%E6%9D%8E%E9%95%BF%E6%AD%8C&fontColor=99aabb&fontSize=34&fontAlignY=38&desc=Biomedical%20Engineer%20%C2%B7%20Neural%20Interfaces%20%C2%B7%20Affective%20Neuroscience&descAlignY=58&descSize=13&descFontColor=556677&animation=fadeIn)
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=558877&center=true&vCenter=true&width=660&height=45&lines=B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Affective+Neuroscience;Xi'an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1200&color=778899&center=true&vCenter=true&width=660&height=45&lines=B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Affective+Neuroscience;Xi'an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
 
 <br/>
 
@@ -68,7 +68,7 @@ Biomedical engineering researcher focused on bioelectronic device development an
 ```
 PEDOT:PSS flexible electrodes  ·  PDMS casting  ·  tissue-mimicking phantoms
 TiO₂ nanoparticle dispersion   ·  Kapton–FEP molds  ·  non-photolithographic patterning
-BET surface analysis  ·  TGA   ·  pyrolysis
+BET surface analysis  ·  TGA  ·  pyrolysis
 ```
 
 <br/>
@@ -105,7 +105,7 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 →  Glucose biosensor: ESP32 colorimetric analog front-end (senior capstone)
 →  Preparing graduate applications — neural engineering / psychiatric BCI
 →  Making jewelry — brass & silver, botanical and anatomical motifs
-→  Listening: Pink Floyd  ·  草东没有派对  ·  Coldplay  ·  Placebo  ·  陈粒
+→  Listening: Pink Floyd  ·  草东没有派对  ·  落日飞车  ·  Placebo  ·  陈粒
 ```
 
 <br/>
@@ -135,4 +135,4 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 <br/><br/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,19,20,21&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
