@@ -88,11 +88,11 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 ## Languages · 语言
 
 ```
-[普通话 / 古汉语 / 文言文]  ─  母语  ·  native
-[English]                  ─  流利  ·  fluent
-[Deutsch]                  ─  学习中  ·  intermediate
-[日本語]                   ─  学习中  ·  intermediate
-[Español]                  ─  准备开始  ·  incoming
+[普通话]                    ─  母语  ·  native
+[English]                  ─  流利  ·  fully professional 
+[Deutsch]                  ─  学习中  ·  not fully professional
+[日本語]                    ─  学习中  ·  intermediate
+[Español]                  ─  学习中  ·  intermediate
 ```
 
 <br/>
@@ -103,9 +103,8 @@ BET surface analysis  ·  TGA   ·  pyrolysis
 →  Behavioral neuroscience lab — DeepLabCut pose estimation (single & multi-animal)
 →  PDMS tissue-mimicking phantom fabrication & optical characterization
 →  Glucose biosensor: ESP32 colorimetric analog front-end (senior capstone)
-→  Preparing graduate applications — neural engineering / psychiatric BCI
 →  Making jewelry — brass & silver, botanical and anatomical motifs
-→  Listening: Pink Floyd  ·  草东没有派对  ·  Coldplay  ·  Placebo  ·  陈粒
+→  Listening: Pink Floyd  ·  寸铁  ·  周二下午谁没来  ·  Placebo  ·  陈粒
 ```
 
 
