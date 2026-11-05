@@ -11,7 +11,7 @@
 
 [![annemi.studio](https://img.shields.io/badge/annemi.studio-B23A2A?style=flat-square)](https://annemi.studio) &nbsp;[![Email](https://img.shields.io/badge/annemi.li@icahn.mssm.edu-2F5D7C?style=flat-square)](mailto:annemi.li@icahn.mssm.edu) &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F8A73?style=flat-square)](https://www.linkedin.com/in/siyi-l-03a2a7380/)
 
-<sub><i>And ne forhtedon ná &nbsp;·&nbsp; Ripple is a transient hippocampal oscillation.</i></sub>
+<sub><i>And ne forhtedon ná</i></sub>
 
 </div>
 
