@@ -1,122 +1,148 @@
 <div align="center">
 
-<br/><br/>
-
-# Annemi Li &ensp;·&ensp; 李长歌
+<a href="https://annemi.studio">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="GABAergic interneurons — basket, chandelier, Martinotti and neurogliaform cells — painted in the manner of gongbi" width="100%">
+  </picture>
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=12&duration=3500&pause=1200&color=778899&center=true&vCenter=true&width=660&height=35&lines=Biomedical+Engineer+%C2%B7+Neural+Interfaces+%C2%B7+Affective+Neuroscience;B.S.+Biomedical+Engineering+%7C+Miami+University;BCI+%7C+Bioelectronics+%7C+Biophotonics;Xi%27an+%E2%86%92+Oxford%2C+OH+%E2%86%92+New+York+%E2%80%A6)](https://git.io/typing-svg)
+[![annemi.studio](https://img.shields.io/badge/annemi.studio-B23A2A?style=flat-square)](https://annemi.studio) &nbsp;[![Email](https://img.shields.io/badge/annemi.li@icahn.mssm.edu-2F5D7C?style=flat-square)](mailto:annemi.li@icahn.mssm.edu) &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F8A73?style=flat-square)](https://www.linkedin.com/in/siyi-l-03a2a7380/)
 
-<br/>
-
-<sub>Ripple is a transient hippocampal oscillation.</sub>
-
-<br/><br/>
+<sub><i>And ne forhtedon ná &nbsp;·&nbsp; Ripple is a transient hippocampal oscillation.</i></sub>
 
 </div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
 
-## About · 关于
+### 壹 &nbsp;·&nbsp; 关于 &nbsp;<sub>About</sub>
 
-Biomedical engineering researcher focused on bioelectronic device development and physiological sensing systems — from soft material fabrication and electrode design to analog front-end circuits, embedded control, and biosignal processing. Drawn especially to how neural interfaces might reach psychiatric and affective conditions that current tools can barely touch.
+Grad student at CACT, Mount Sinai — DBS evoked potentials in OCD & depression. More at [annemi.studio](https://annemi.studio).
 
-生物医学工程研究者，专注生物电子器件开发与生理传感系统——从软材料制备、电极设计，到模拟前端电路、嵌入式控制与生物信号处理。尤其关注神经接口如何触及现有工具几乎无法干预的精神与情感疾病。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
 
-<br/>
+### 贰 &nbsp;·&nbsp; 研究 &nbsp;<sub>Research</sub>
 
-## Research Interests · 研究方向
-
+```text
+  ongoing    DBS evoked potentials in OCD & depression ........... CACT · Mount Sinai
+  writing    Panic ⇄ dissociation as dynamical state transitions ......... theory MS
+  live       Before The Thought Arrives — 3D brain × EEG × emotion ........ Three.js
+  in prep    Double integrating sphere + IAD on tissue phantoms ............ optics
+  done       DeepLabCut + SimBA behavior quantification pipeline ......... behavior
+  done       Trait anxiety & acute trauma in mouse defensive behavior ...... poster
+  done       P.I.P. — ESP32 colorimetric glucose biosensor (capstone) ... hardware
+  done       Mn removal from potable water w/ activated biomass ...... env. eng.
+  done       Ogden / Mooney–Rivlin hyperelastic modeling ............. mechanics
 ```
-[Psychiatric BCI]              ─  Closed-loop interfaces for psychiatric neuromodulation
-[Brain Organoid Electrophys]   ─  Electrophysiology in 3D neural tissue models
-[Affective Neuroscience]       ─  Amygdala · stress-axis · neuroendocrine systems
-[Biosignal Hardware]           ─  Analog front-end design · embedded acquisition systems
-[Biophotonics]                 ─  Tissue-mimicking phantoms · optical sensing pipelines
-```
 
+> *Curiosity is not enough; you need to have some concerns and, even better, a bit of anger.* — 项飙 Biao Xiang
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
+
+### 叁 &nbsp;·&nbsp; 藏 &nbsp;<sub>What Lives Here</sub>
+
+| Repo | |
+|:--|:--|
+| [**before-the-thought-arrives**](https://github.com/AnnemiL-experimental/before-the-thought-arrives) | EEG bands & emotional states mapped onto a 3D brain — [live](https://before-the-thought-arrives.annemi.studio/) |
+| [**AnnemiL-experimental.github.io**](https://github.com/AnnemiL-experimental/AnnemiL-experimental.github.io) | *Between the Frames* — personal site — [annemi.studio](https://annemi.studio) |
+| [**mood-cocktail**](https://github.com/AnnemiL-experimental/mood-cocktail) | 今天整点儿啥 — type a mood, get a cocktail — [try it](https://cocktail.annemi.studio) |
+| [**Uniaxial-Characterization-…**](https://github.com/AnnemiL-experimental/Uniaxial-Characterization-and-Hyperelastic-Modeling-of-Soft-Materials) | Hyperelastic (Ogden) modeling of soft elastomers, experiment → fit |
+| [**bioinstrumentation-presentations**](https://github.com/AnnemiL-experimental/bioinstrumentation-presentations) | Biopotentials & biosensors |
+| [**my-philosophy**](https://github.com/AnnemiL-experimental/my-philosophy) | Essays on system dynamics, mind, and what resists explanation |
+| [**jiuzhou**](https://github.com/AnnemiL-experimental/jiuzhou) | 九州志 — world-building archive |
+| [**slavic-mythology**](https://github.com/AnnemiL-experimental/slavic-mythology) | 斯拉夫神话资料集 |
+| [**humanities-ebooks**](https://github.com/AnnemiL-experimental/humanities-ebooks) | sociology · aesthetics · psychology |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
+
+### 肆 &nbsp;·&nbsp; 器 &nbsp;<sub>Toolkit</sub>
+
+<p>
+<img src="https://img.shields.io/badge/Python-B23A2A?style=flat-square&logo=python&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/MATLAB-B23A2A?style=flat-square&logo=mathworks&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-B23A2A?style=flat-square&logo=cplusplus&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/Three.js-B23A2A?style=flat-square&logo=threedotjs&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/React-B23A2A?style=flat-square&logo=react&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/Linux-B23A2A?style=flat-square&logo=linux&logoColor=F3E9D2" />
 <br/>
+<img src="https://img.shields.io/badge/DeepLabCut-2F5D7C?style=flat-square" />
+<img src="https://img.shields.io/badge/SimBA-2F5D7C?style=flat-square" />
+<img src="https://img.shields.io/badge/EEGLAB-2F5D7C?style=flat-square" />
+<img src="https://img.shields.io/badge/BioPac-2F5D7C?style=flat-square" />
+<img src="https://img.shields.io/badge/Moku%3AGo-2F5D7C?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/ESP32-4F8A73?style=flat-square&logo=espressif&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-4F8A73?style=flat-square&logo=raspberrypi&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/Eagle_PCB-4F8A73?style=flat-square&logo=autodesk&logoColor=F3E9D2" />
+<img src="https://img.shields.io/badge/Fusion_360-4F8A73?style=flat-square&logo=autodesk&logoColor=F3E9D2" />
+</p>
 
-## Tech Stack · 技术栈
-
-**Programming & Data Analysis**
-
-![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=aaaaaa)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-1e1e1e?style=flat-square&logo=c%2B%2B&logoColor=aaaaaa)
-![MATLAB](https://img.shields.io/badge/MATLAB-1e1e1e?style=flat-square&logo=mathworks&logoColor=aaaaaa)
-![Java](https://img.shields.io/badge/Java-1e1e1e?style=flat-square&logo=openjdk&logoColor=aaaaaa)
-![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=flat-square&logo=linux&logoColor=aaaaaa)
-
-**Biosignal Acquisition & Processing**
-
-![BioPac](https://img.shields.io/badge/BioPac-1e1e1e?style=flat-square&logoColor=aaaaaa)
-![EEGLAB](https://img.shields.io/badge/EEGLAB-1e1e1e?style=flat-square&logoColor=aaaaaa)
-![Moku:Go](https://img.shields.io/badge/Moku%3AGo-1e1e1e?style=flat-square&logoColor=aaaaaa)
-![DeepLabCut](https://img.shields.io/badge/DeepLabCut-1e1e1e?style=flat-square&logoColor=aaaaaa)
-
-**Embedded Systems & Hardware**
-
-![ESP32](https://img.shields.io/badge/ESP32-1e1e1e?style=flat-square&logo=espressif&logoColor=aaaaaa)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry+Pi-1e1e1e?style=flat-square&logo=raspberrypi&logoColor=aaaaaa)
-![AD8232](https://img.shields.io/badge/AD8232-1e1e1e?style=flat-square&logoColor=aaaaaa)
-![Eagle PCB](https://img.shields.io/badge/Eagle+PCB-1e1e1e?style=flat-square&logo=autodesk&logoColor=aaaaaa)
-![Fusion 360](https://img.shields.io/badge/Fusion+360-1e1e1e?style=flat-square&logo=autodesk&logoColor=aaaaaa)
-
-**Device & Material Fabrication**
+<details>
+<summary><b>Bench & fab</b> &nbsp;<sub>实验台</sub></summary>
 
 ```
 PEDOT:PSS flexible electrodes  ·  PDMS casting  ·  tissue-mimicking phantoms
 TiO₂ nanoparticle dispersion   ·  Kapton–FEP molds  ·  non-photolithographic patterning
-BET surface analysis  ·  TGA   ·  pyrolysis
+TIA front-ends (MCP6002 + BPW34)  ·  BET surface analysis  ·  TGA  ·  pyrolysis
 ```
 
-<br/>
+</details>
 
-## What Lives Here · 这里有什么
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
 
-```
-[Uniaxial-Characterization-...]  ─  Hyperelastic (Ogden) modeling of soft elastomers
-[my-philosophy]                  ─  Essays on system dynamics, mind, and what resists explanation
-[jiuzhou]                        ─  九州志  ─  world-building archive
-[slavic-mythology]               ─  斯拉夫神话资料集  ─  Slavic mythology archive
-[humanities-ebooks]              ─  sociology · aesthetics · psychology · humanities
-```
+### 伍 &nbsp;·&nbsp; 杂 &nbsp;<sub>Misc</sub>
 
-<br/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## Languages · 语言
+**常听** &nbsp;<sub>On repeat</sub><br/>
+Pink Floyd · 腰 · Placebo · 草东没有派对 · 王菲 · 陈粒 · 水仙斗活佛<br/>
+<sub>punk · indie · psych rock · dream pop</sub>
 
-```
-[普通话]                    ─  母语  ·  native
-[English]                  ─  流利  ·  fully professional 
-[Deutsch]                  ─  学习中  ·  not fully professional
-[日本語]                    ─  学习中  ·  intermediate
-[Español]                  ─  学习中  ·  intermediate
-```
+**语言** &nbsp;<sub>Languages</sub><br/>
+普通话 `native` · English `fluent` · 日本語 `中级` · Español `中级` · Deutsch `学习中`
 
-<br/>
+</td>
+<td valign="top" width="50%">
 
-## Currently · 近况
+**站内小物** &nbsp;<sub>On the site</sub><br/>
+[赛博算命 · Cyber Fortune](https://annemi.studio/cyber-fortune.html) — Disco Elysium-style divination<br/>
+[留言板 · Guestbook](https://annemi.studio/guestbook.html) — say hi<br/>
+[今天整点儿啥](https://cocktail.annemi.studio) — mood → cocktail
 
-```
-→  Behavioral neuroscience lab — DeepLabCut pose estimation (single & multi-animal)
-→  PDMS tissue-mimicking phantom fabrication & optical characterization
-→  Glucose biosensor: ESP32 colorimetric analog front-end (senior capstone)
-→  Making jewelry — brass & silver, botanical and anatomical motifs
-→  Listening: Pink Floyd  ·  寸铁  ·  周二下午谁没来  ·  Placebo  ·  陈粒
-```
+**从前** &nbsp;<sub>Before all this</sub><br/>
+Community organizer 2020–22: mental-health programs, peer support & creative workshops across 10+ provinces in China.
 
+</td>
+</tr>
+</table>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" alt="" width="100%">
+</picture>
 
 <div align="center">
-<br/>
-<sub>
-愿你有苍老却无畏的样子<br/>
-永有金子般明亮的放肆<br/>
-永不回避命运对灵魂的逼视<br/>
-如果有一天我先你而逝<br/>
-<br/>
+<i>愿你有苍老却无畏的样子</i><br/>
+<i>永有金子般明亮的放肆</i><br/>
+<i>永不回避命运对灵魂的逼视</i><br/>
+<i>如果有一天我先你而逝</i>
 </div>
-
